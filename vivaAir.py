@@ -46,7 +46,7 @@ class VivaAir(Colossus):
         data = self._procesar_respuestas(results)
         try:
             analiticas = open("AnaliticasVivaAir.csv","a")
-            analiticas2 = open("AnaliticasVivaAir_latest.csv","w")
+            analiticas2 = open("AnaliticasVivaAir_latest.csv","a")
             for resultados in data:
                 r = resultados.split(" ")
                 r[1]=self.get_day(r[1])
@@ -91,6 +91,9 @@ class VivaAir(Colossus):
         self._driver.close()
 
 
+
+reset = open("AnaliticasVivaAir_latest.csv","w")
+reset.close() 
 
 
 viva = VivaAir("SMR","MDE")
