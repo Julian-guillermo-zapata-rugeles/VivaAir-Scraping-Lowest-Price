@@ -1,0 +1,8 @@
+pandas
+numpy
+dash
+beautifulsoup4
+requests
+cryptography>=35.0
+selenium
+webdriver_manager
