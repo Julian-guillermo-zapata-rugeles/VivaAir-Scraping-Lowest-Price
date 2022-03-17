@@ -1,736 +1,184 @@
-2022;3;10;18 ; Martes               ; 1 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 2 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 3 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 4 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 5 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 6 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 7 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 8 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 9 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 10 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 11 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 12 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 13 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 14 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 15 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 16 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 17 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 18 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 19 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 20 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 21 ; MARZO           ; 261.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 22 ; MARZO           ; 190.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 23 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 24 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 25 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 26 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 27 ; MARZO           ; 181.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 28 ; MARZO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 29 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 30 ; MARZO           ; 186.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 31 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 1 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 2 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 3 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 4 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 5 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 6 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 7 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 8 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 9 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 10 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 11 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 12 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 13 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 14 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 15 ; ABRIL           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 16 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 17 ; ABRIL           ; 450.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 18 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 19 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 20 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 21 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 22 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 23 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 24 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 25 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 26 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 27 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 28 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 29 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 30 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 1 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 2 ; MAYO             ; 181.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 3 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 4 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 5 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 6 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 7 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 8 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 9 ; MAYO             ; 175.600    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 10 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 11 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 12 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 13 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 14 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 15 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 16 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 17 ; MAYO            ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 18 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 19 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 20 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 21 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 22 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 23 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 24 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 25 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 26 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 27 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 28 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 29 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 30 ; MAYO            ; 293.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 31 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 1 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 2 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 3 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 4 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 5 ; JUNIO            ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 6 ; JUNIO            ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 7 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 8 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 9 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 10 ; JUNIO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 11 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 12 ; JUNIO           ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 13 ; JUNIO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 14 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 15 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 16 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 17 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 18 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 19 ; JUNIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 20 ; JUNIO           ; 366.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 21 ; JUNIO           ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 22 ; JUNIO           ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 23 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 24 ; JUNIO           ; 175.600    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 25 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 26 ; JUNIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 27 ; JUNIO           ; 240.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 28 ; JUNIO           ; 203.800    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 29 ; JUNIO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 30 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 1 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 2 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 3 ; JULIO            ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 4 ; JULIO            ; 219.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 5 ; JULIO            ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 6 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 7 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 8 ; JULIO            ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 9 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 10 ; JULIO           ; 203.800    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 11 ; JULIO           ; 219.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 12 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 13 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 14 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 15 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 16 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 17 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 18 ; JULIO           ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 19 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 20 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 21 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 22 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 23 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 24 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 25 ; JULIO           ; 186.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 26 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 27 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 28 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 29 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 30 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 31 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 1 ; AGOSTO           ; 194.600    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 2 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 3 ; AGOSTO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 4 ; AGOSTO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 5 ; AGOSTO           ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 6 ; AGOSTO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 7 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 8 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 9 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 10 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 11 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 12 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 13 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 14 ; AGOSTO          ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 15 ; AGOSTO          ; 219.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 16 ; AGOSTO          ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 17 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 18 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 19 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 20 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 21 ; AGOSTO          ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 22 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 23 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 24 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 25 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 26 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 27 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 28 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 29 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 30 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 31 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 1 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 2 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 3 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 4 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 5 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 6 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 7 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 8 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 9 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 10 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 11 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 12 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 13 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 14 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 15 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 16 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 17 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 18 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 19 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 20 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 21 ; MARZO           ; 261.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 22 ; MARZO           ; 190.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 23 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 24 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 25 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 26 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 27 ; MARZO           ; 181.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 28 ; MARZO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 29 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 30 ; MARZO           ; 186.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 31 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 1 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 2 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 3 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 4 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 5 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 6 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 7 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 8 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 9 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 10 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 11 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 12 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 13 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 14 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 15 ; ABRIL           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 16 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 17 ; ABRIL           ; 450.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 18 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 19 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 20 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 21 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 22 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 23 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 24 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 25 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 26 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 27 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 28 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 29 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 30 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 1 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 2 ; MAYO             ; 181.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 3 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 4 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 5 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 6 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 7 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 8 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 9 ; MAYO             ; 175.600    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 10 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 11 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 12 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 13 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 14 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 15 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 16 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 17 ; MAYO            ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 18 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 19 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 20 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 21 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 22 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 23 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 24 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 25 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 26 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 27 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 28 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 29 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 30 ; MAYO            ; 293.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 31 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 1 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 2 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 3 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 4 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 5 ; JUNIO            ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 6 ; JUNIO            ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 7 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 8 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 9 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 10 ; JUNIO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 11 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 12 ; JUNIO           ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 13 ; JUNIO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 14 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 15 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 16 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 17 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 18 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 19 ; JUNIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 20 ; JUNIO           ; 366.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 21 ; JUNIO           ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 22 ; JUNIO           ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 23 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 24 ; JUNIO           ; 175.600    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 25 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 26 ; JUNIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 27 ; JUNIO           ; 240.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 28 ; JUNIO           ; 203.800    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 29 ; JUNIO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 30 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 1 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 2 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 3 ; JULIO            ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 4 ; JULIO            ; 219.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 5 ; JULIO            ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 6 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 7 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 8 ; JULIO            ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 9 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 10 ; JULIO           ; 203.800    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 11 ; JULIO           ; 219.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 12 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 13 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 14 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 15 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 16 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 17 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 18 ; JULIO           ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 19 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 20 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 21 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 22 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 23 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 24 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 25 ; JULIO           ; 186.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 26 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 27 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 28 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 29 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 30 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 31 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 1 ; AGOSTO           ; 194.600    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 2 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 3 ; AGOSTO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 4 ; AGOSTO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 5 ; AGOSTO           ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 6 ; AGOSTO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 7 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 8 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 9 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 10 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 11 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 12 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 13 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 14 ; AGOSTO          ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 15 ; AGOSTO          ; 219.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 16 ; AGOSTO          ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 17 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 18 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 19 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 20 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 21 ; AGOSTO          ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 22 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 23 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 24 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 25 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 26 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 27 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 28 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 29 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 30 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 31 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 1 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 2 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 3 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 4 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 5 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 6 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 7 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 8 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 9 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 10 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 11 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 12 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 13 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 14 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 15 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 16 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 17 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 18 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 19 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 20 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 21 ; MARZO           ; 261.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 22 ; MARZO           ; 190.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 23 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 24 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 25 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 26 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 27 ; MARZO           ; 181.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 28 ; MARZO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 29 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 30 ; MARZO           ; 186.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 31 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 1 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 2 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 3 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 4 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 5 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 6 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 7 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 8 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 9 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 10 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 11 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 12 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 13 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 14 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 15 ; ABRIL           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 16 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 17 ; ABRIL           ; 450.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 18 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 19 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 20 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 21 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 22 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 23 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 24 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 25 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 26 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 27 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 28 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 29 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 30 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 1 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 2 ; MAYO             ; 181.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 3 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 4 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 5 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 6 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 7 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 8 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 9 ; MAYO             ; 175.600    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 10 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 11 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 12 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 13 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 14 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 15 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 16 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 17 ; MAYO            ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 18 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 19 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 20 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 21 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 22 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 23 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 24 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 25 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 26 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 27 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 28 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 29 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 30 ; MAYO            ; 293.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 31 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 1 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 2 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 3 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 4 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 5 ; JUNIO            ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 6 ; JUNIO            ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 7 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 8 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 9 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 10 ; JUNIO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 11 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 12 ; JUNIO           ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 13 ; JUNIO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 14 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 15 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 16 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 17 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 18 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 19 ; JUNIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 20 ; JUNIO           ; 366.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 21 ; JUNIO           ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 22 ; JUNIO           ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 23 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 24 ; JUNIO           ; 175.600    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 25 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 26 ; JUNIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 27 ; JUNIO           ; 240.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 28 ; JUNIO           ; 203.800    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 29 ; JUNIO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 30 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 1 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 2 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 3 ; JULIO            ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 4 ; JULIO            ; 219.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 5 ; JULIO            ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 6 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 7 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 8 ; JULIO            ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 9 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 10 ; JULIO           ; 203.800    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 11 ; JULIO           ; 219.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 12 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 13 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 14 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 15 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 16 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 17 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 18 ; JULIO           ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 19 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 20 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 21 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 22 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 23 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 24 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 25 ; JULIO           ; 186.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 26 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 27 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 28 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 29 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 30 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 31 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 1 ; AGOSTO           ; 194.600    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 2 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 3 ; AGOSTO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 4 ; AGOSTO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 5 ; AGOSTO           ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 6 ; AGOSTO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 7 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 8 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 9 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 10 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 11 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 12 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 13 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 14 ; AGOSTO          ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 15 ; AGOSTO          ; 219.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 16 ; AGOSTO          ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 17 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 18 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 19 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 20 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 21 ; AGOSTO          ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 22 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 23 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 24 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 25 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 26 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 27 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 28 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 29 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 30 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 31 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 1 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 2 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 3 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 4 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 5 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 6 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 7 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 8 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 9 ; MARZO            ; No         ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 10 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 11 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 12 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 13 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 14 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 15 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 16 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 17 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 18 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 19 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 20 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 21 ; MARZO           ; 261.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 22 ; MARZO           ; 190.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 23 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 24 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 25 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 26 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 27 ; MARZO           ; 181.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 28 ; MARZO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 29 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 30 ; MARZO           ; 186.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 31 ; MARZO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 1 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 2 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 3 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 4 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 5 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 6 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 7 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 8 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 9 ; ABRIL            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 10 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 11 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 12 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 13 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 14 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 15 ; ABRIL           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 16 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 17 ; ABRIL           ; 450.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 18 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 19 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 20 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 21 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 22 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 23 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 24 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 25 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 26 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 27 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 28 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 29 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 30 ; ABRIL           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 1 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 2 ; MAYO             ; 181.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 3 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 4 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 5 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 6 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 7 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 8 ; MAYO             ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 9 ; MAYO             ; 175.600    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 10 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 11 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 12 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 13 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 14 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 15 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 16 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 17 ; MAYO            ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 18 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 19 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 20 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 21 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 22 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 23 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 24 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 25 ; MAYO            ; 169.300    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 26 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 27 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 28 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 29 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 30 ; MAYO            ; 293.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 31 ; MAYO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 1 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 2 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 3 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 4 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 5 ; JUNIO            ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 6 ; JUNIO            ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 7 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 8 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 9 ; JUNIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 10 ; JUNIO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 11 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 12 ; JUNIO           ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 13 ; JUNIO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 14 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 15 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 16 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 17 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 18 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 19 ; JUNIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 20 ; JUNIO           ; 366.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 21 ; JUNIO           ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 22 ; JUNIO           ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 23 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 24 ; JUNIO           ; 175.600    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 25 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 26 ; JUNIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 27 ; JUNIO           ; 240.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 28 ; JUNIO           ; 203.800    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 29 ; JUNIO           ; 165.100    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 30 ; JUNIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 1 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 2 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 3 ; JULIO            ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 4 ; JULIO            ; 219.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 5 ; JULIO            ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 6 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 7 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 8 ; JULIO            ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 9 ; JULIO            ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 10 ; JULIO           ; 203.800    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 11 ; JULIO           ; 219.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 12 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 13 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 14 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 15 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 16 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 17 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 18 ; JULIO           ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 19 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 20 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 21 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 22 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 23 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 24 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 25 ; JULIO           ; 186.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 26 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 27 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 28 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 29 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 30 ; JULIO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 31 ; JULIO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 1 ; AGOSTO           ; 194.600    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 2 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 3 ; AGOSTO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 4 ; AGOSTO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 5 ; AGOSTO           ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 6 ; AGOSTO           ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 7 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 8 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 9 ; AGOSTO           ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 10 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 11 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 12 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 13 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 14 ; AGOSTO          ; 198.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 15 ; AGOSTO          ; 219.700    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 16 ; AGOSTO          ; 209.200    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 17 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 18 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 19 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 20 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 21 ; AGOSTO          ; 160.900    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 22 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 23 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 24 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Jueves               ; 25 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Viernes              ; 26 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Sábado               ; 27 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Domingo              ; 28 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Lunes                ; 29 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Martes               ; 30 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
-2022;3;10;18 ; Miércoles            ; 31 ; AGOSTO          ; 145.828    ; SMR                  ; MDE  
+2022;3;16;21;Martes;1 ; MARZO;No;SMR;BOG
+2022;3;16;21;Miércoles;2 ; MARZO;No;SMR;BOG
+2022;3;16;21;Jueves;3 ; MARZO;No;SMR;BOG
+2022;3;16;21;Viernes;4 ; MARZO;No;SMR;BOG
+2022;3;16;21;Sábado;5 ; MARZO;No;SMR;BOG
+2022;3;16;21;Domingo;6 ; MARZO;No;SMR;BOG
+2022;3;16;21;Lunes;7 ; MARZO;No;SMR;BOG
+2022;3;16;21;Martes;8 ; MARZO;No;SMR;BOG
+2022;3;16;21;Miércoles;9 ; MARZO;No;SMR;BOG
+2022;3;16;21;Jueves;10 ; MARZO;No;SMR;BOG
+2022;3;16;21;Viernes;11 ; MARZO;No;SMR;BOG
+2022;3;16;21;Sábado;12 ; MARZO;No;SMR;BOG
+2022;3;16;21;Domingo;13 ; MARZO;No;SMR;BOG
+2022;3;16;21;Lunes;14 ; MARZO;No;SMR;BOG
+2022;3;16;21;Martes;15 ; MARZO;No;SMR;BOG
+2022;3;16;21;Miércoles;16 ; MARZO;No;SMR;BOG
+2022;3;16;21;Jueves;17 ; MARZO;155.703;SMR;BOG
+2022;3;16;21;Viernes;18 ; MARZO;165.100;SMR;BOG
+2022;3;16;21;Sábado;19 ; MARZO;155.703;SMR;BOG
+2022;3;16;21;Domingo;20 ; MARZO;155.703;SMR;BOG
+2022;3;16;21;Lunes;21 ; MARZO;403.776;SMR;BOG
+2022;3;16;21;Martes;22 ; MARZO;396.200;SMR;BOG
+2022;3;16;21;Miércoles;23 ; MARZO;185.250;SMR;BOG
+2022;3;16;21;Jueves;24 ; MARZO;155.703;SMR;BOG
+2022;3;16;21;Viernes;25 ; MARZO;155.703;SMR;BOG
+2022;3;16;21;Sábado;26 ; MARZO;194.600;SMR;BOG
+2022;3;16;21;Domingo;27 ; MARZO;229.600;SMR;BOG
+2022;3;16;21;Lunes;28 ; MARZO;155.703;SMR;BOG
+2022;3;16;21;Martes;29 ; MARZO;155.703;SMR;BOG
+2022;3;16;21;Miércoles;30 ; MARZO;155.703;SMR;BOG
+2022;3;16;21;Jueves;31 ; MARZO;155.703;SMR;BOG
+2022;3;16;21;Viernes;1 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Sábado;2 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Domingo;3 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Lunes;4 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Martes;5 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Miércoles;6 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Jueves;7 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Viernes;8 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Sábado;9 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Domingo;10 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Lunes;11 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Martes;12 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Miércoles;13 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Jueves;14 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Viernes;15 ; ABRIL;224.000;SMR;BOG
+2022;3;16;21;Sábado;16 ; ABRIL;396.200;SMR;BOG
+2022;3;16;21;Domingo;17 ; ABRIL;414.400;SMR;BOG
+2022;3;16;21;Lunes;18 ; ABRIL;229.600;SMR;BOG
+2022;3;16;21;Martes;19 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Miércoles;20 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Jueves;21 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Viernes;22 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Sábado;23 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Domingo;24 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Lunes;25 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Martes;26 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Miércoles;27 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Jueves;28 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Viernes;29 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Sábado;30 ; ABRIL;155.703;SMR;BOG
+2022;3;16;21;Domingo;1 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Lunes;2 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Martes;3 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Miércoles;4 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Jueves;5 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Viernes;6 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Sábado;7 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Domingo;8 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Lunes;9 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Martes;10 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Miércoles;11 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Jueves;12 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Viernes;13 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Sábado;14 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Domingo;15 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Lunes;16 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Martes;17 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Miércoles;18 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Jueves;19 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Viernes;20 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Sábado;21 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Domingo;22 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Lunes;23 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Martes;24 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Miércoles;25 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Jueves;26 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Viernes;27 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Sábado;28 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Domingo;29 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Lunes;30 ; MAYO;160.900;SMR;BOG
+2022;3;16;21;Martes;31 ; MAYO;155.703;SMR;BOG
+2022;3;16;21;Miércoles;1 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Jueves;2 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Viernes;3 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Sábado;4 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Domingo;5 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Lunes;6 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Martes;7 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Miércoles;8 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Jueves;9 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Viernes;10 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Sábado;11 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Domingo;12 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Lunes;13 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Martes;14 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Miércoles;15 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Jueves;16 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Viernes;17 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Sábado;18 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Domingo;19 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Lunes;20 ; JUNIO;165.100;SMR;BOG
+2022;3;16;21;Martes;21 ; JUNIO;165.100;SMR;BOG
+2022;3;16;21;Miércoles;22 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Jueves;23 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Viernes;24 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Sábado;25 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Domingo;26 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Lunes;27 ; JUNIO;354.200;SMR;BOG
+2022;3;16;21;Martes;28 ; JUNIO;165.100;SMR;BOG
+2022;3;16;21;Miércoles;29 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Jueves;30 ; JUNIO;155.703;SMR;BOG
+2022;3;16;21;Viernes;1 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Sábado;2 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Domingo;3 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Lunes;4 ; JULIO;354.200;SMR;BOG
+2022;3;16;21;Martes;5 ; JULIO;175.600;SMR;BOG
+2022;3;16;21;Miércoles;6 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Jueves;7 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Viernes;8 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Sábado;9 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Domingo;10 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Lunes;11 ; JULIO;175.600;SMR;BOG
+2022;3;16;21;Martes;12 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Miércoles;13 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Jueves;14 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Viernes;15 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Sábado;16 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Domingo;17 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Lunes;18 ; JULIO;181.900;SMR;BOG
+2022;3;16;21;Martes;19 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Miércoles;20 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Jueves;21 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Viernes;22 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Sábado;23 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Domingo;24 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Lunes;25 ; JULIO;165.100;SMR;BOG
+2022;3;16;21;Martes;26 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Miércoles;27 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Jueves;28 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Viernes;29 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Sábado;30 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Domingo;31 ; JULIO;155.703;SMR;BOG
+2022;3;16;21;Lunes;1 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Martes;2 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Miércoles;3 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Jueves;4 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Viernes;5 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Sábado;6 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Domingo;7 ; AGOSTO;160.900;SMR;BOG
+2022;3;16;21;Lunes;8 ; AGOSTO;169.300;SMR;BOG
+2022;3;16;21;Martes;9 ; AGOSTO;160.900;SMR;BOG
+2022;3;16;21;Miércoles;10 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Jueves;11 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Viernes;12 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Sábado;13 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Domingo;14 ; AGOSTO;160.900;SMR;BOG
+2022;3;16;21;Lunes;15 ; AGOSTO;312.200;SMR;BOG
+2022;3;16;21;Martes;16 ; AGOSTO;165.100;SMR;BOG
+2022;3;16;21;Miércoles;17 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Jueves;18 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Viernes;19 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Sábado;20 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Domingo;21 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Lunes;22 ; AGOSTO;181.900;SMR;BOG
+2022;3;16;21;Martes;23 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Miércoles;24 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Jueves;25 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Viernes;26 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Sábado;27 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Domingo;28 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Lunes;29 ; AGOSTO;175.600;SMR;BOG
+2022;3;16;21;Martes;30 ; AGOSTO;155.703;SMR;BOG
+2022;3;16;21;Miércoles;31 ; AGOSTO;155.703;SMR;BOG
